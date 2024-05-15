@@ -1,1 +1,2 @@
 # SUPERMARKET-BILLING-SYSTEM
+Supermarket requires stock control system to void out of stock level for each product. A admin can be able to process an order by entering product numbers and required quantities into the system. The system will display a description price and available QR code with a reference id. The system will allow products to be paid by cash. After scanning the QR code it will directly debit the cash form the customer accounts with a reference id.
